@@ -37,7 +37,7 @@
     "lint:markup": "markuplint \"./src/**/*.{jsx,tsx}\"",
     "storybook": "storybook dev -p 6006",
     "storybook:build": "storybook build",
-    "storybook:test": "test-storybook",
+    "storybook:test": "test-storybook"
   },
   "dependencies": {
     "@digital-go-jp/design-tokens": "^1.1.1",
