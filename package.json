@@ -38,7 +38,6 @@
     "storybook": "storybook dev -p 6006",
     "storybook:build": "storybook build",
     "storybook:test": "test-storybook",
-    "build-storybook": "build-storybook"
   },
   "dependencies": {
     "@digital-go-jp/design-tokens": "^1.1.1",
